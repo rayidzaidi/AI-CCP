@@ -1,0 +1,4 @@
+Algorithm,Goal,Success,TotalCost,CompletionSlot,NodesExpanded,NodesGenerated,MaxFrontierSize,ExecutionTimeMs
+BFS (Breadth-First Search),Earliest Completion Time,True,135.0,3,12,22,10,0.4
+DFS (Depth-First Search),First Feasible Schedule (Low Memory),True,154.0,5,5,23,18,0.274
+A* Search (Heuristic Cost-Optimal),Minimum Total Energy Cost,True,64.0,6,22,124,64,2.146
